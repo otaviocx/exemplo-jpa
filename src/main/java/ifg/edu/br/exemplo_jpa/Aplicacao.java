@@ -9,7 +9,7 @@ public class Aplicacao {
     	
     	Usuario maria = new Usuario();
     	maria.setId(1L);
-    	maria.setCpf("98765432199");
+    	maria.setCpf("000000000000");
     	maria.setEmail("maria.silva@gmail.com");
     	maria.setNome("Maria da Silva");
     	maria.setSenha("maria");
